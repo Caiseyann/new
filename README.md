@@ -17,6 +17,7 @@ There are no known bugs
 * HTMl
 * JavaScript
 * Batchfile 
+### To visit the app click on this link caiseynews.herokuapp.com/
 ## Support and contact details
 In case of any questions email me at "caiseyann4@gmail.com" 
 * Also feel free to fork, clone this project and make any necessary changes.
